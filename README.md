@@ -1,4 +1,4 @@
-# IntroLevelDesign-Tomatador
+# Introduction to Level Design and Game Asset Creation - Tomatador (Tank Game)
 
 Some explanation on how my submission is structured:
 - the "Tank Game 2021" folder is my Unity project
