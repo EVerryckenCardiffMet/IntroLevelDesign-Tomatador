@@ -1,5 +1,7 @@
 # Introduction to Level Design and Game Asset Creation - Tomatador (Tank Game)
 
+As an exchange student who usually studies software development, this was my first time doing something video game related. Nevertheless, I hope you enjoy what I made!
+
 Some explanation on how my submission is structured:
 - the "Tank Game 2021" folder is my Unity project
 - the "tank_animated.fbx" file is my textured and animated tank model
